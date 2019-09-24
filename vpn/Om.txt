@@ -1,0 +1,62 @@
+Your mail address (tor)	duvkjdhbsvusk@7w65g63fgumvpuvd.onion
+Your mail address (VMAT)	duvkjdhbsvusk@onionmail.info
+Your VMAT password	aS&azPrHvtZQ}+}e
+Read messages
+POP3 Server	7w65g63fgumvpuvd.onion
+Server type	POP3
+Server Port	110
+SSL Mode	Use SSL via STLS (TLS)
+Password type	Clear
+POP3 Username	duvkjdhbsvusk
+POP3 Password	+y.m3P@/[i9>VIKbtBITJ17,LS\<UE!w|Ay}GhQ
+Connect via	TOR network
+Send Messages
+SMTP Server	7w65g63fgumvpuvd.onion
+Use authentication	Y
+Server type	SMTP
+Server Port	25
+SSL Mode	Use SSL via STARTTLS
+Password type	Clear
+SMTP Username	duvkjdhbsvusk
+SMTP Password	F<b]Y[-nRr"mQvd>iDLx?H3Q91b7;i3UATV$Z6S
+Connect via	TOR network
+Server informations
+Server mail address (tor)	server@7w65g63fgumvpuvd.onion
+SysOp mail address (tor)	sysop@7w65g63fgumvpuvd.onion
+SSL Certificate SHA-1	c0980f133c88917e1e2470fe077b54adc1f32965
+Server NickName	hiddenmail
+
+
+{
+    "window.zoomLevel": 1,
+    "window.enableMenuBarMnemonics": true,
+    "window.menuBarVisibility": "toggle",
+    "window.newWindowDimensions": "default",
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.tree.horizontalScrolling": true,
+    "editor.cursorStyle": "line-thin",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.insertSpaces": false,
+    "editor.wordWrap": "bounded",
+    "workbench.tips.enabled": true,
+    "php.validate.run": "onType",
+    "files.encoding": "utf8",
+    "workbench.activityBar.visible": false,
+    "workbench.commandPalette.history": 100,
+    "workbench.commandPalette.preserveInput": true,
+    "workbench.editor.labelFormat": "short",
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.statusBar.visible": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorWidth": 1,
+    "editor.fontWeight": "bold",
+    "editor.glyphMargin": true,
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": false //this
+}
+

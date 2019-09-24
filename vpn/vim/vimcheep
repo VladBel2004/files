@@ -1,0 +1,28 @@
+h - left; j - up; k - down; l - right;
+$ - cursor++; '-' - cursor--;  w - word no space; e - word + space;
+i - insert; A - go to end line and insert;
+d - delete; dd - delete line; 2dd - delete 2 lines;
+u - go back to one step; U - go back all steps in line;
+C-r - go back go back;
+p - return from buffer;
+r - replase symbol;
+ce - delete word from cursor to end of word and go to insert;
+/ - search form cursor to end;
+? - search from cursor to start;
+C-o - go to pos from you was;
+Shift-n - next back;
+n - next;
+% - go to from "(,[,{,},],)" to "(, [, {, }, ], )";
+:#,#s/"error_word"/"some_word"/"g | " - replace err_w on some_w; // # - number of string
+:!"bush_comand" - use this comand for bush comands;
+: w "file_name" - write this file in "file_name";
+v - visual mode;
+:r "file_name" - read file in this file.
+o - create new line and go to insert mode;
+O - create new line and go to insert mode;
+R - replace mode;
+y - copy;
+
+
+
+

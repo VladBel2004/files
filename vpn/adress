@@ -1,0 +1,33 @@
+
+    208.67.222.222
+    208.67.220.220
+
+proxychains firefox
+openvpn --config vpnbook-de233-tcp443.ovpn
+vpnbook
+6b467gr
+nano /etc/resolv.conf 
+crontab -e
+status 
+nslookup scanme.nmap.org
+-oG  -grep nmap
+nm
+192.168.0.89
+364ipmoIPM
+crontab -e
+iptables -I INPUT 1 -p tcp --dport 3128 -j ACCEPT 
+логин:
+v41412755 
+v41795187
+chmod
+iptables -t nat -A PREROUTING -i eth0 -p tcp --destination-port 80 -j REDIRECT --to-port 3128
+v41795187
+ 77599885339
+dfhnvilkhsvukdjhvbkfudjv
+akulova3506
+fluxion
+KranGoPop
+vbelyaev340@gmail.com	
+6178627163
+git remote add "Name" "Path"
+blkid
